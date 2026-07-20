@@ -1,23 +1,27 @@
 import sqlite3
-conn = sqlite3.connect("students.db")
+conn = sqlite3.connect("studentS.db")
 cursor = conn.cursor()
-cursor.execute("""
+cursor.execute(""" 
     CREATE TABLE IF NOT EXISTS students(
-               id INTEGER PRIMARY KEY,
+               id INTERGER,
                name TEXT,
-               age INTEGER)    
- """)
-#MULTIPLE RECORDS ADD
+               AGE INTEGER
+               )    
+
+""")
+#multiple student 
 students = [
     ("Harshad",22),
     ("Amit",21),
-    ("Rahul", 23),
-    ("Sneha", 22),
-    ("shreya",22)
+    ("Rahul",20),
+    ("Priya",23)
 ]
+#Insert multiple records 
 cursor.executemany(
-    "INSERT INTO students(name,age)VALUES(?,?)",students
+    "INSERT INTO students(name,age)VALUES(?,?)",
+    students
 )
-conn.commit()
-print("5 Records Inserted Succesfully")
+conn.close()
+print("4 records Inserted Succesfully!")
+#Close the database connection
 conn.close()
