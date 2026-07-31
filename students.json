@@ -1,1 +1,234 @@
-[{"name": "Harshad", "Marks": 90}, {"name": "shreyash", "marks": 80}, {"name": "sujall", "marks": 70}]
+[
+    {
+        "roll_no": 12,
+        "name": "yogesh",
+        "age": 23,
+        "email": "yogesh@gmail.com",
+        "course": "M.A",
+        "mark": 118.0
+    },
+    {
+        "roll_no": 13,
+        "name": "Athrav Zende",
+        "age": 223,
+        "email": "athravzende@gamail.com",
+        "course": "M.sc Computer Scienc",
+        "mark": 149.0
+    },
+    {
+        "roll_no": 15,
+        "name": "dinesh Patil",
+        "age": 23,
+        "email": "dineshpatil@gmail.com",
+        "course": "Machanical Engineer",
+        "mark": 190.0
+    },
+    {
+        "roll_no": 21,
+        "name": "pradnesh patil",
+        "age": 24,
+        "email": "pradineshpatil@gmail.com",
+        "course": "M.Sc Agri",
+        "mark": 64.0
+    },
+    {
+        "roll_no": 22,
+        "name": "shreya patil",
+        "age": 23,
+        "email": "shreyashpatil.com",
+        "course": "M.sc ",
+        "mark": 153.0
+    },
+    {
+        "roll_no": 24,
+        "name": "Sanket Patil",
+        "age": 24,
+        "email": "sanketpatil@gmail.com",
+        "course": "M.sc Computer Science",
+        "mark": 34.0
+    },
+    {
+        "roll_no": 28,
+        "name": "Harshad Nitin Shenole ",
+        "age": 34,
+        "email": "ganeshgurav@gami.com",
+        "course": "M.sc Computer Science",
+        "mark": 78.0
+    },
+    {
+        "roll_no": 32,
+        "name": "ketan Aswale",
+        "age": 22,
+        "email": "ketan@3304",
+        "course": "M.Sc computer Science",
+        "mark": 88.0
+    },
+    {
+        "roll_no": 33,
+        "name": "sammed Chougule",
+        "age": 25,
+        "email": "sammedchougule@gmail.com",
+        "course": "M.sc computer Sciecne",
+        "mark": 150.0
+    },
+    {
+        "roll_no": 34,
+        "name": "PRAVIN",
+        "age": 24,
+        "email": "pravin@gamil.com",
+        "course": "M.sc Computer Science",
+        "mark": 67.0
+    },
+    {
+        "roll_no": 41,
+        "name": "shreyash",
+        "age": 25,
+        "email": "shreyash@gmail.com",
+        "course": "m.sc",
+        "mark": 65.0
+    },
+    {
+        "roll_no": 42,
+        "name": "Abhishek",
+        "age": 22,
+        "email": "abhishek@gmail.com",
+        "course": "M.sc",
+        "mark": 125.0
+    },
+    {
+        "roll_no": 43,
+        "name": "Pradnesh Patil",
+        "age": 24,
+        "email": "pradnesh[atil2gmail.com",
+        "course": "M.Sc Agri",
+        "mark": 135.0
+    },
+    {
+        "roll_no": 44,
+        "name": "ketan",
+        "age": 23,
+        "email": "ketan@gmail.com",
+        "course": "M.Sc Stater",
+        "mark": 45.0
+    },
+    {
+        "roll_no": 45,
+        "name": "swapnil ",
+        "age": 23,
+        "email": "swapnilanuse",
+        "course": "M.sc",
+        "mark": 90.0
+    },
+    {
+        "roll_no": 46,
+        "name": "Gourav Shete",
+        "age": 22,
+        "email": "gouravshete@gamil.com",
+        "course": "m.sc ",
+        "mark": 151.0
+    },
+    {
+        "roll_no": 55,
+        "name": "Raj Patil",
+        "age": 22,
+        "email": "Rajpatil@gamil.com",
+        "course": "M.sc computer Science",
+        "mark": 87.0
+    },
+    {
+        "roll_no": 56,
+        "name": "hgf",
+        "age": 54,
+        "email": "kaa",
+        "course": "m.sc",
+        "mark": 123.0
+    },
+    {
+        "roll_no": 57,
+        "name": "jivan Mohite",
+        "age": 23,
+        "email": "jivanmohite@gmail.com",
+        "course": "M.sc Computer Science",
+        "mark": 138.0
+    },
+    {
+        "roll_no": 59,
+        "name": "rakesh Shenole",
+        "age": 28,
+        "email": "rakeshsshenole@gamil.com",
+        "course": "Mechanical Engineering",
+        "mark": 154.0
+    },
+    {
+        "roll_no": 61,
+        "name": "sourabh",
+        "age": 25,
+        "email": "sourabh@gmail.com",
+        "course": "M.Sc",
+        "mark": 51.0
+    },
+    {
+        "roll_no": 66,
+        "name": "asmita",
+        "age": 22,
+        "email": "rew",
+        "course": "dfgh",
+        "mark": 44.0
+    },
+    {
+        "roll_no": 74,
+        "name": "sohan",
+        "age": 22,
+        "email": "soham",
+        "course": "M.sc",
+        "mark": 233.0
+    },
+    {
+        "roll_no": 77,
+        "name": "vibooim",
+        "age": 23,
+        "email": "viboompawar",
+        "course": "M.sc Computer Science",
+        "mark": 114.0
+    },
+    {
+        "roll_no": 84,
+        "name": "Anil Shenole",
+        "age": 33,
+        "email": "anilshenole@gmail.com",
+        "course": "M.Sc Agree",
+        "mark": 191.0
+    },
+    {
+        "roll_no": 88,
+        "name": "Adity More",
+        "age": 22,
+        "email": "aditymore@gmail.com",
+        "course": "M.Sc Physice",
+        "mark": 139.0
+    },
+    {
+        "roll_no": 90,
+        "name": "Harshad Shenole",
+        "age": 22,
+        "email": "harshadshenole@gmail.com",
+        "course": "MCA",
+        "mark": 89.0
+    },
+    {
+        "roll_no": 91,
+        "name": "Sagar shinde",
+        "age": 25,
+        "email": "sagarshinde@gmail.com",
+        "course": "M.sc Physics",
+        "mark": 134.0
+    },
+    {
+        "roll_no": 98,
+        "name": "Sampat Shenole",
+        "age": 36,
+        "email": "sampatshenole@gamil.com",
+        "course": "M.Com",
+        "mark": 103.0
+    }
+]
